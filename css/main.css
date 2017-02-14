@@ -1,0 +1,130 @@
+body {
+  margin:0px;
+  height:100vh;
+  background-color: #212121;
+}
+
+.right img {
+  height:50px;
+  width:50px;
+}
+
+.right2 img {
+  height:100px;
+  width:100px;
+}
+.container{
+  background:rgba(0,0,0,0.70);
+  padding:0;
+  color:#ffffff;
+}
+
+form {
+  text-align: right;
+}
+.container h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.table {
+  background-color:#FFFFFF;
+}
+
+.table>tbody>tr>th {
+  background-color:#E65100;
+  border-top:none;
+}
+
+.table>tbody>tr>td {
+  color:black;
+}
+
+#background {
+  background-image:url(../presentation/pizzas/bg.jpg);
+  background-size: cover;
+}
+
+#background label {
+  color:#ffffff;
+}
+
+#info {
+  background-color:#212121;
+}
+
+#info h1 {
+  margin-top:0;
+  padding-top: 50px;
+  text-align: center;
+  color:#ffffff;
+}
+#info span {
+  color:#FF6D00;
+  text-align: center;
+}
+
+.form-group p {
+  color:white;
+}
+
+.text {
+  text-align: center;
+  color:#ffffff;
+}
+
+.text a {
+  text-decoration: none;
+  font-weight: bolder;
+  display:inline-block;
+  color: #000000;
+  margin:50px;
+  padding: 40px;
+  background-color:#EF6C00;
+}
+
+.overzicht {
+  color: #ffffff;
+  text-align: center;
+}
+
+.content {
+  background-color:#212121;
+}
+
+.right {
+  text-align: center;
+  margin: 0 auto;
+  padding:40px;
+  color:#ffffff;
+}
+
+.right2 {
+  text-align: right;
+  float:right;
+  display:inline-block;
+  padding:40px;
+  color:#ffffff;
+}
+
+.right h1 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.table > tbody > tr > td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.table > tbody > tr > th {
+text-align:center;
+}
+
+.navbar {
+  margin-bottom:0;
+  border-radius: 0px;
+}
+li {
+  list-style: none;
+}
