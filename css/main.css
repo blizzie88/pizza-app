@@ -88,13 +88,19 @@ form {
 }
 
 .content {
-  background-color:#212121;
 }
 
 .right {
   text-align: center;
   margin: 0 auto;
   padding:40px;
+  color:#ffffff;
+}
+
+.overview {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 40px 0 40px;
   color:#ffffff;
 }
 

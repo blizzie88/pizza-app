@@ -1,4 +1,4 @@
-<div class="right2">
+<div class="right">
     <h1> Uw winkelkarretje </h1>
     <table class="table table-hover">
       <ul>
